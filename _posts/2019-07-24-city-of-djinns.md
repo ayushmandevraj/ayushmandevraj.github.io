@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "REVIEW: *City of Djinns: A Year in Delhi* by William Dalrymple"
+title: "REVIEW: City of Djinns"
 description: "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
 comments: true
 keywords: "book review, literature, blog posts"
