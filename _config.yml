@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Ayushman"
-title_right   : "Devraj" # default: ""
+title_left    : "AYUSHMAN"
+title_right   : "DEVRAJ" # default: ""
 description   : "A Personal Homepage"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://ayushmandevraj.github.io/ # site url
