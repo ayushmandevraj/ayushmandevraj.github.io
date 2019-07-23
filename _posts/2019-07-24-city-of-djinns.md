@@ -10,7 +10,7 @@ keywords: "dummy content, lorem ipsum"
 
 At the still wet-behind-the-ears age of twenty-five, Dalrymple and his wife went to live in Delhi, and this amazing book is the result of his first year in the city.
 
-![](https://pbs.twimg.com/profile_images/1144851947477848064/fRYWiAXe_400x400.jpg)
+![](https://quicksilver.scoopwhoop.com/unsafe/1260x0/center/https://s4.scoopwhoop.com/anj/jdjdj/531545666.jpg)
 
 It is an utter delight from beginning to end. A smorgasbord of historical people and places, myths and facts, festivals and parties, pilgrimages and ancient texts. It is also full of touching examples of everyday life - as Dalrymple explores with a kindly eye, the nooks and crannies of Delhi and its people.
 
