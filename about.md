@@ -8,18 +8,20 @@ I’m an ardent politics buff, disgruntled movie fanatic, frustrated lover of li
 
 Although I enjoy writing, at present I hardly get any time to do so. Burdened with research, academic assignments and work, the art within me is slowly fading. I am almost always in class- either taking one as a teacher or sitting in one as a student. Still at some rare occasions, whenever possible, I pen down my thoughts. You can find my blog <a href="https://ayushmandevraj.in">here</a>. 
 
-Follow me on <a href="https://twitter.com/ayushmandevraj">twitter</a>![Twitter](https://cdn.dribbble.com/users/172027/screenshots/642757/twitter_follow_button.gif)
 
-## Here is a video I created a long time ago for a communications assignment.
-
-### Enjoy!
+### Here is a video I created a long time ago for a communications assignment. Enjoy!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFpgg6cQtww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Elsewhere on the internet:
 
-### Image
+> <a href="https://twitter.com/ayushmandevraj">Twitter</a>
 
-![Minion](http://octodex.github.com/images/minion.png)
+> <a href="https://facebook.com/ayushmandevraj">Facebook</a>
+
+> <a href="https://instagram.com/ayushmandevraj">Instagram</a>
+
+
 
 
 
