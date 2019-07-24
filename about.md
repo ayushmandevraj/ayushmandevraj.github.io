@@ -13,3 +13,11 @@ Although I enjoy writing, at present I hardly get any time to do so. Burdened wi
 ### Enjoy!
 
 <div class="video-container"><iframe src="https://www.youtube.com/watch?v=kFpgg6cQtww" frameborder="0" allowfullscreen></iframe></div>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/n1a7o44WxNo" frameborder="0" allowfullscreen></iframe></div>
+
+### Image
+
+![Minion](http://octodex.github.com/images/minion.png)
+
+---
