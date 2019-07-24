@@ -16,9 +16,11 @@ Although I enjoy writing, at present I hardly get any time to do so. Burdened wi
 
 <div class="divider"></div>
 
-### Elsewhere on the internet:
+##### Elsewhere on the internet:
 
 > <a href="https://twitter.com/ayushmandevraj">Twitter</a> <a href="https://facebook.com/ayushmandevraj">Facebook</a> <a href="https://instagram.com/ayushmandevraj">Instagram</a>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
 
