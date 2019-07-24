@@ -6,7 +6,7 @@ comments: true
 keywords: "book review, literature, blog posts"
 ---
 
-# REVIEW: *City of Djinns: A Year in Delhi* by William Dalrymple
+#### *City of Djinns: A Year in Delhi* by William Dalrymple
 
 At the still wet-behind-the-ears age of twenty-five, Dalrymple and his wife went to live in Delhi, and this amazing book is the result of his first year in the city.
 
